@@ -1,4 +1,4 @@
-# Kwangpo Lee🍀 
+# 🍀 Kwangpo Lee
 
 <숨쉬기 위해 끊임없이 앞으로 헤엄치는 참치같은 인재>
 
