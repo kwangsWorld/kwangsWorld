@@ -1,6 +1,6 @@
-# Kwangpo LEE🍀 
+# Kwangpo Lee🍀 
 
-누가 봐도 알기 쉬운 코드를 목표로 개발하고 있습니다
+<숨쉬기 위해 끊임없이 앞으로 헤엄치는 참치같은 인재>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkwangsWorld0703%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D46E6E&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
