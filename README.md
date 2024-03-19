@@ -45,6 +45,6 @@
 
 # :mailbox_with_mail: Contacts
 [![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/kwangsWorld/)](https://github.com/kwangsWorld/)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)](https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leekp7@naver.com)](mailto:leekp7@naver.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gmltjd3391@naver.com)](mailto:gmltjd3391@naver.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/](https://buly.kr/7x3odv3))]([https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/](https://buly.kr/7x3odv3))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poyahuba@gmail.com)](mailto:poyahuba@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:leekp7@naver.com)](mailto:leekp7@naver.com)
