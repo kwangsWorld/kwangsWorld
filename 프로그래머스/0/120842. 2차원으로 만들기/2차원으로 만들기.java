@@ -6,7 +6,7 @@ class Solution {
             for(int j = 0; j < n; j++){
                 answer[i][j] = num_list[element];
                 element++;
-                System.out.println("answer[" + i +"]"+"[" + j + "]" + " = " + answer[i][j]);
+                // System.out.println("answer[" + i +"]"+"[" + j + "]" + " = " + answer[i][j]);
             }
         }
         return answer;
