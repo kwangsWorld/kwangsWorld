@@ -8,6 +8,7 @@ class Solution {
                     count++;
                 }
                 if(count >= 3){
+                    // System.out.println("합성수 = " + i);
                     answer++;
                     break;
                 }
