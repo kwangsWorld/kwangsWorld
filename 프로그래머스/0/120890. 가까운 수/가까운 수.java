@@ -9,6 +9,7 @@ class Solution {
             if(Math.abs(n-array[0]) > Math.abs(n-array[i])){
                 array[0] = array[i];
             }
+            
         }
         answer = array[0];
         return answer;
