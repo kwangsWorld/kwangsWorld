@@ -7,7 +7,6 @@ class Solution {
             int judge = (int)num.charAt(i);
             if(judge == 51 || judge == 54 || judge == 57){
                 answer++;
-                
             }
         }
         return answer;
