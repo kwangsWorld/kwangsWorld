@@ -2,7 +2,7 @@
 
 <숨쉬기 위해 끊임없이 앞으로 헤엄치는 참치같은 인재>
 
-[![Hits](https://hits.donaldzou.dev/count/github.com%2FkwangsWorld)](https://hitscounter.dev)
+[![Hits](https://hits.donaldzou.dev/count/github.com%2FkwangsWorld%2FAlgorithm)](https://hitscounter.dev)
 
 
 
