@@ -2,7 +2,8 @@
 
 <숨쉬기 위해 끊임없이 앞으로 헤엄치는 참치같은 인재>
 
-[![Hits](https://hits.donaldzou.dev/count/your-url)](https://hitscounter.dev)
+[![Hits](https://hits.donaldzou.dev/count/github.com%2FkwangsWorld)](https://hitscounter.dev)
+
 
 
 [![kwangsWorld's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangsWorld)](https://github.com/anuraghazra/github-readme-stats)
