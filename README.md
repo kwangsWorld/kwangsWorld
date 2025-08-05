@@ -2,7 +2,7 @@
 
 <숨쉬기 위해 끊임없이 앞으로 헤엄치는 참치같은 인재>
 
-[![visitor count](https://badges.pufler.dev/visits/kwangsWorld/Algorithm)](https://badges.pufler.dev/)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kwangsWorld)
 
 
 [![kwangsWorld's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangsWorld)](https://github.com/anuraghazra/github-readme-stats)
